@@ -3,13 +3,15 @@
 
 ## 2022
 
+**[CiCo]** One-stage Video Instance Segmentation: From Frame-in Frame-out to Clip-in Clip-out - [paper](https://arxiv.org/abs/2203.06421) [code](https://github.com/MinghanLi/CiCo) - arxiv 2022
+
 **[VISOLO]** VISOLO: Grid-Based Space-Time Aggregation for Efficient Online Video Instance Segmentation - [paper](https://arxiv.org/abs/2112.04177) [code] - CVPR 2022
 
 **[Deformable VisTR]** Deformable VisTR: Spatio temporal deformable attention for video instance segmentation - [paper](https://arxiv.org/abs/2203.06318) [code](https://github.com/skrya/DefVIS) - ICASSP 2022
 
-**[EfficientVIS]** Efficient Video Instance Segmentation via Tracklet Query and Proposal - [paper](https://arxiv.org/abs/2203.01853) [code] - CVPR2022
+**[EfficientVIS]** Efficient Video Instance Segmentation via Tracklet Query and Proposal - [paper](https://arxiv.org/abs/2203.01853) [code] - CVPR 2022
 
-**[STC]** STC: Spatio-Temporal Contrastive Learning for Video Instance Segmentation - [paper](https://arxiv.org/abs/2202.03747) [code] - arxiv2022 
+**[STC]** STC: Spatio-Temporal Contrastive Learning for Video Instance Segmentation - [paper](https://arxiv.org/abs/2202.03747) [code] - arxiv 2022 
 
 ## 2021
 
