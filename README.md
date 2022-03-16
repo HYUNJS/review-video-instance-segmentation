@@ -3,7 +3,7 @@
 
 ## 2022
 
-**[VISSOLO]** VISOLO: Grid-Based Space-Time Aggregation for Efficient Online Video Instance Segmentation - [paper](https://arxiv.org/abs/2112.04177) [code] - CVPR 2022
+**[VISOLO]** VISOLO: Grid-Based Space-Time Aggregation for Efficient Online Video Instance Segmentation - [paper](https://arxiv.org/abs/2112.04177) [code] - CVPR 2022
 
 **[Deformable VisTR]** Deformable VisTR: Spatio temporal deformable attention for video instance segmentation - [paper](https://arxiv.org/abs/2203.06318) [code](https://github.com/skrya/DefVIS) - ICASSP 2022
 
