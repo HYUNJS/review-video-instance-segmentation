@@ -7,7 +7,7 @@
 
 **[CiCo]** One-stage Video Instance Segmentation: From Frame-in Frame-out to Clip-in Clip-out - [paper](https://arxiv.org/abs/2203.06421) [code](https://github.com/MinghanLi/CiCo) - arxiv 2022
 
-**[VISOLO]** VISOLO: Grid-Based Space-Time Aggregation for Efficient Online Video Instance Segmentation - [paper](https://arxiv.org/abs/2112.04177) [code] - CVPR 2022
+**[VISOLO]** VISOLO: Grid-Based Space-Time Aggregation for Efficient Online Video Instance Segmentation - [paper](https://arxiv.org/abs/2112.04177) [code] - CVPR 2022 Oral
 
 **[Deformable VisTR]** Deformable VisTR: Spatio temporal deformable attention for video instance segmentation - [paper](https://arxiv.org/abs/2203.06318) [code](https://github.com/skrya/DefVIS) - ICASSP 2022
 
