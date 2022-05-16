@@ -3,6 +3,8 @@
 
 ## 2022
 
+**[MS-STS]** Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer [paper](https://arxiv.org/abs/2203.13253) [code] - arxiv 2022
+
 **[TeViT]** Temporally Efficient Vision Transformer for Video Instance Segmentation [paper](https://arxiv.org/abs/2204.08412) [code](https://github.com/hustvl/TeViT) - CVPR 2022 Oral
 
 **[CiCo]** One-stage Video Instance Segmentation: From Frame-in Frame-out to Clip-in Clip-out - [paper](https://arxiv.org/abs/2203.06421) [code](https://github.com/MinghanLi/CiCo) - arxiv 2022
